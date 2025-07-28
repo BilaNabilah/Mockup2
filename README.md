@@ -35,7 +35,7 @@ Pada halaman Login Buat bagian untuk memasukkan
 ---
 
 #### Portal Mahasiswa
-Buat Navbar pada pojo kanan atas
+Buat Navbar pada pojok kanan atas
 - Beranda
 - KRS
 - Jadwal
